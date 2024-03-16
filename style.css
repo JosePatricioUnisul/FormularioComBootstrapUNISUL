@@ -1,0 +1,18 @@
+/* Tema padrão */
+.theme-padrao {
+  /* Defina os estilos padrão aqui */
+  background-color: #ffffff; /* Exemplo de cor de fundo */
+  color: #000000; /* Exemplo de cor do texto */
+}
+
+/* Tema escuro */
+.theme-escuro {
+  /* Defina os estilos para o tema escuro aqui */
+  background-color: #222222; /* Exemplo de cor de fundo escura */
+  color: #ffffff; /* Exemplo de cor do texto para fundo escuro */
+}
+
+/* Outros estilos comuns */
+.error {
+  color: red;
+}
